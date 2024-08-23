@@ -1,4 +1,3 @@
-Here’s the refined version of your text:
 
 ---
 
@@ -22,4 +21,3 @@ Available at [https://github.com/polineni7/Products-DB.git](https://github.com/p
 
 --- 
 
-This version improves clarity and readability.
